@@ -1,0 +1,6 @@
+BACKEND SETUP
+1. First did npm init -y to get the package.json file
+2. npm i dotenv mongodb mongoose express cors
+3. npm i ts-node typescript nodemon @types/express @types/cors @types/node --save-dev
+4. npx tsc --init
+

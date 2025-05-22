@@ -1,0 +1,3 @@
+1. Shadcn ui - follow all the steps
+2. react-router-dom
+3. icon package  npm i lucide-react
